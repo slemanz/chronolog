@@ -1,0 +1,3 @@
+[submodule "external/kicad-template"]
+	path = external/kicad-template
+	url = git@github.com:slemanz/kicad-template.git
