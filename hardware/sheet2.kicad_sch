@@ -70,6 +70,20 @@
 		(uuid 1d689ece-37f1-40a4-891d-e416687557a4)
 	)
 	(rectangle
+		(start 76.2 248.92)
+		(end 130.81 262.89)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 194 194 194 1)
+		)
+		(uuid 3f53df6e-d18f-4a55-8349-e231877f60d1)
+	)
+	(rectangle
 		(start 76.2 92.71)
 		(end 130.81 106.68)
 		(stroke
@@ -183,7 +197,7 @@
 	)
 	(rectangle
 		(start 156.21 127)
-		(end 210.82 239.395)
+		(end 210.82 264.16)
 		(stroke
 			(width 0.5)
 			(type solid)
@@ -288,6 +302,20 @@
 			)
 		)
 		(uuid "2dc1a946-0a81-4705-87e2-5e87c9a57bb1")
+	)
+	(text "PAGE"
+		(exclude_from_sim no)
+		(at 76.835 248.285 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e5032eb-7915-4cf6-8cf8-c7a2e69ef12e")
 	)
 	(text "PAGE"
 		(exclude_from_sim no)
@@ -535,6 +563,19 @@
 		)
 		(uuid "a399fa79-8f41-46e5-9fc6-36e0b5ff0cdc")
 	)
+	(text "4xBUTTON"
+		(exclude_from_sim no)
+		(at 102.87 255.905 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "a770907d-f5b7-4ff5-a791-e3d518f6fdc5")
+	)
 	(text "PAGE"
 		(exclude_from_sim no)
 		(at 76.2 224.79 0)
@@ -747,6 +788,17 @@
 			(color 255 0 0 1)
 		)
 		(uuid "24f518c2-ea88-443c-98f3-dad0e2544746")
+	)
+	(polyline
+		(pts
+			(xy 130.81 255.905) (xy 155.575 255.905)
+		)
+		(stroke
+			(width 1.5)
+			(type solid)
+			(color 0 0 255 1)
+		)
+		(uuid "33e72fa3-5647-476c-a1bc-2b2afc4ed760")
 	)
 	(polyline
 		(pts
