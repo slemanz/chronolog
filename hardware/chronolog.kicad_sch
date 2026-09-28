@@ -1207,7 +1207,7 @@
 		)
 		(uuid "c15d21b1-e309-4db8-a746-0f32f5a94b64")
 	)
-	(text "Power Budget"
+	(text "Power Supply"
 		(exclude_from_sim no)
 		(at 44.45 95.25 0)
 		(effects
@@ -1695,7 +1695,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "15087690-13d4-4a2e-883d-52edd77e88dd")
-		(property "Sheetname" "[03] - Power Budget"
+		(property "Sheetname" "[03] - Power Supply"
 			(at 320.04 306.6284 0)
 			(effects
 				(font
