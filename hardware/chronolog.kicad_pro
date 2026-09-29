@@ -621,6 +621,10 @@
     [
       "15087690-13d4-4a2e-883d-52edd77e88dd",
       "[03] - Power Supply"
+    ],
+    [
+      "90f70198-c0ab-4cef-90bd-cd1364d30a2f",
+      "[04] - MCU"
     ]
   ],
   "text_variables": {
