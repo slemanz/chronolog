@@ -9,8 +9,7 @@
 		(date "2026-09-01")
 		(rev "A")
 		(company "Sleman")
-		(comment 1 "For more designs, visit")
-		(comment 2 "www.github.com/slemanz")
+		(comment 1 "For more designs, visit www.github.com/slemanz")
 	)
 	(lib_symbols)
 	(text "Page"
