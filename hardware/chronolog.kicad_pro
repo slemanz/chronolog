@@ -625,6 +625,10 @@
     [
       "90f70198-c0ab-4cef-90bd-cd1364d30a2f",
       "[04] - MCU"
+    ],
+    [
+      "941acb62-ce4a-4ec1-a0f3-4caa44da5513",
+      "[05] - RTC and NOR"
     ]
   ],
   "text_variables": {
