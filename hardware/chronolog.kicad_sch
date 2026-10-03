@@ -109,7 +109,7 @@
 		)
 		(uuid "097575d9-1011-4b8d-803b-c9b5da795aa0")
 	)
-	(text "..........................................."
+	(text "RTC and NOR"
 		(exclude_from_sim no)
 		(at 44.45 110.49 0)
 		(effects
@@ -1802,6 +1802,49 @@
 			(project "chronolog"
 				(path "/08767502-fa14-4976-aaca-9650785a2144"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 386.08 307.34)
+		(size 29.21 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 132 0 0 1)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "941acb62-ce4a-4ec1-a0f3-4caa44da5513")
+		(property "Sheetname" "[05] - RTC and NOR"
+			(at 386.08 306.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet5.kicad_sch"
+			(at 386.08 311.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "chronolog"
+				(path "/08767502-fa14-4976-aaca-9650785a2144"
+					(page "5")
 				)
 			)
 		)
