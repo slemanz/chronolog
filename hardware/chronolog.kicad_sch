@@ -1136,7 +1136,7 @@
 		)
 		(uuid "b4625e00-d958-4e33-b3b4-4f58b803dbb6")
 	)
-	(text "..........................................."
+	(text "Buttons and Sensors"
 		(exclude_from_sim no)
 		(at 44.45 118.11 0)
 		(effects
@@ -1716,6 +1716,48 @@
 			(project "chronolog"
 				(path "/08767502-fa14-4976-aaca-9650785a2144"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 287.02 318.77)
+		(size 29.21 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7094e49c-c98a-4666-a6fd-f2e077db3b07")
+		(property "Sheetname" "[06] - Buttons and Sensors"
+			(at 287.02 318.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet6.kicad_sch"
+			(at 287.02 323.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "chronolog"
+				(path "/08767502-fa14-4976-aaca-9650785a2144"
+					(page "6")
 				)
 			)
 		)
