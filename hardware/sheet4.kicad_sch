@@ -6936,6 +6936,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 132.08) (xy 198.12 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8167cde4-001a-4127-96e1-11540554da57")
+	)
+	(wire
+		(pts
 			(xy 185.42 116.84) (xy 198.12 116.84)
 		)
 		(stroke
@@ -7283,6 +7293,16 @@
 			(type default)
 		)
 		(uuid "c59d5d76-ef9f-4714-9858-5cea069e1e65")
+	)
+	(wire
+		(pts
+			(xy 185.42 134.62) (xy 198.12 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6a10ce3-df8b-48b2-9a0e-97860986c185")
 	)
 	(wire
 		(pts
@@ -7684,6 +7704,28 @@
 		)
 		(uuid "fe44b84d-232f-4a1c-bf77-397110202b48")
 	)
+	(global_label "I2C1_SCL"
+		(shape output)
+		(at 198.12 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "097818a9-deb4-49ee-a364-5389daee8cff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 209.8742 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SPI2_NSS"
 		(shape output)
 		(at 187.96 147.32 0)
@@ -7829,6 +7871,28 @@
 		(uuid "def91e20-7bc6-4ca6-b802-a2bb27297d00")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 209.5114 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C1_SDA"
+		(shape output)
+		(at 198.12 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f1771a49-c4ca-4f01-b91d-737213e46e1a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 209.9347 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11345,6 +11409,7 @@
 		)
 		(pin "42"
 			(uuid "d8dd38ea-725a-4ff1-bd7b-7995b43b4d39")
+			(alternate "I2C1_SCL (PB6)")
 		)
 		(pin "40"
 			(uuid "3bf0e47b-adfb-4805-afe1-9b49ebfac5ce")
@@ -11358,6 +11423,7 @@
 		)
 		(pin "43"
 			(uuid "5f570d5d-a308-44e1-847c-9ddf78054ed6")
+			(alternate "I2C1_SDA (PB7)")
 		)
 		(pin "34"
 			(uuid "ea24c66a-d96d-400e-acdd-af68da291e4e")
