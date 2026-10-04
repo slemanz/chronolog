@@ -629,6 +629,10 @@
     [
       "941acb62-ce4a-4ec1-a0f3-4caa44da5513",
       "[05] - RTC and NOR"
+    ],
+    [
+      "7094e49c-c98a-4666-a6fd-f2e077db3b07",
+      "[06] - Buttons and Sensors"
     ]
   ],
   "text_variables": {
