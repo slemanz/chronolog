@@ -633,6 +633,10 @@
     [
       "7094e49c-c98a-4666-a6fd-f2e077db3b07",
       "[06] - Buttons and Sensors"
+    ],
+    [
+      "4146eae3-5013-424d-958d-e72c053ce55e",
+      "[07] - ESP-01"
     ]
   ],
   "text_variables": {

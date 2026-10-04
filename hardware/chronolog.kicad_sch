@@ -266,7 +266,7 @@
 		)
 		(uuid "1e58a7e8-fe7a-4c80-8dee-e1cf54b5882d")
 	)
-	(text "..........................................."
+	(text "ESP-01"
 		(exclude_from_sim no)
 		(at 44.45 125.73 0)
 		(effects
@@ -1716,6 +1716,48 @@
 			(project "chronolog"
 				(path "/08767502-fa14-4976-aaca-9650785a2144"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 320.04 318.77)
+		(size 29.21 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4146eae3-5013-424d-958d-e72c053ce55e")
+		(property "Sheetname" "[07] - ESP-01"
+			(at 320.04 318.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet7.kicad_sch"
+			(at 320.04 323.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "chronolog"
+				(path "/08767502-fa14-4976-aaca-9650785a2144"
+					(page "7")
 				)
 			)
 		)
