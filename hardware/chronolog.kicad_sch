@@ -688,7 +688,7 @@
 		)
 		(uuid "62e9c878-8185-4312-9354-a8f0b4111182")
 	)
-	(text "..........................................."
+	(text "LCD"
 		(exclude_from_sim no)
 		(at 44.45 133.35 0)
 		(effects
@@ -1929,6 +1929,48 @@
 			(project "chronolog"
 				(path "/08767502-fa14-4976-aaca-9650785a2144"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 353.06 318.77)
+		(size 29.21 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a2a67f8b-871a-4322-8b22-519f733d7411")
+		(property "Sheetname" "[08] - LCD"
+			(at 353.06 318.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet8.kicad_sch"
+			(at 353.06 323.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "chronolog"
+				(path "/08767502-fa14-4976-aaca-9650785a2144"
+					(page "8")
 				)
 			)
 		)
