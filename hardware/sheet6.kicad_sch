@@ -1239,7 +1239,7 @@
 	)
 	(text "${SHEETNAME}"
 		(exclude_from_sim no)
-		(at 142.24 30.48 0)
+		(at 148.5 33.02 0)
 		(effects
 			(font
 				(face "Times New Roman")

@@ -848,11 +848,11 @@
 	)
 	(text "${SHEETNAME}"
 		(exclude_from_sim no)
-		(at 200.66 35.56 0)
+		(at 210 46.69 0)
 		(effects
 			(font
 				(face "Times New Roman")
-				(size 15.24 15.24)
+				(size 15.56 15.56)
 				(bold yes)
 				(color 162 22 34 1)
 			)
