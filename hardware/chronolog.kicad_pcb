@@ -8184,7 +8184,7 @@
 		(property "Reference" "U8"
 			(at -5.82 -3.81 0)
 			(layer "F.SilkS")
-			(uuid "3ad87aba-56df-4c37-8278-0bfebbbf87cf")
+			(uuid "7b713d7e-64f2-49e2-b5c6-86d77e75a35b")
 			(effects
 				(font
 					(size 1 1)
@@ -8195,7 +8195,7 @@
 		(property "Value" "WC1602A"
 			(at -4.31 34.66 0)
 			(layer "F.Fab")
-			(uuid "42cdb631-d420-42ce-8742-f5b218f41bef")
+			(uuid "291ef3ed-ddf5-421b-88f8-68ef4c25559a")
 			(effects
 				(font
 					(size 1 1)
@@ -8208,7 +8208,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c40cafc7-13d7-4c7c-a356-71efef8f4b3f")
+			(uuid "fe052063-6811-4952-b2ea-163037151ca1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8221,7 +8221,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c16be52b-5d8d-4c48-b1b6-385cbdcd9ebf")
+			(uuid "f07a56d0-121a-4519-9a1f-3c72235228dc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27097,6 +27097,381 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(gr_line
+		(start 208 96.5)
+		(end 208 125.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "10f5a159-7b1a-49c6-9705-5ea023abe309")
+	)
+	(gr_line
+		(start 208 149.5)
+		(end 159 149.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "144c3c8f-3611-4816-b3c2-9cbc8b82380c")
+	)
+	(gr_line
+		(start 158 149.5)
+		(end 89 149.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "1dad24d8-565d-471d-b67b-1fb2be4ea476")
+	)
+	(gr_line
+		(start 181 125.5)
+		(end 181 96.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "1f8589bf-3c6e-4f0d-8c61-d7618ff18be3")
+	)
+	(gr_line
+		(start 180 125.5)
+		(end 89 125.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "2bb1414e-1f18-4d09-8905-a4605f6223bc")
+	)
+	(gr_line
+		(start 89 86.5)
+		(end 180 86.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "34981019-ea40-4bcb-a701-2733a87970f4")
+	)
+	(gr_line
+		(start 180 86.5)
+		(end 180 125.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "45d3571f-5f16-4ed9-bce5-b8b78f5fe1da")
+	)
+	(gr_line
+		(start 89 125.5)
+		(end 89 86.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "4864cbfc-4a9a-4507-be9e-88e4b0125a10")
+	)
+	(gr_line
+		(start 159 126.5)
+		(end 208 126.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "49bf5934-f2ea-4d0a-b19b-c9231d66be03")
+	)
+	(gr_line
+		(start 180 60.5)
+		(end 180 85.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "4f659b38-3e3d-4b01-9994-f08d29907ac2")
+	)
+	(gr_line
+		(start 181 60.5)
+		(end 208 60.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "53fc0c0f-a2e2-4d5a-962a-b159f2ebcd53")
+	)
+	(gr_line
+		(start 208 95.5)
+		(end 181 95.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "5ea87e02-6daf-45d3-8106-bebcfb552050")
+	)
+	(gr_line
+		(start 208 126.5)
+		(end 208 149.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "62daf01e-84a0-4a2f-89b8-b52e97093c6b")
+	)
+	(gr_line
+		(start 138 85.5)
+		(end 89 85.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "63e2c2f7-d4e7-416f-a0d6-3ef67db2af73")
+	)
+	(gr_line
+		(start 139 60.5)
+		(end 180 60.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "6dd156ff-cf2d-42be-a74f-8cba3955ff89")
+	)
+	(gr_line
+		(start 181 96.5)
+		(end 208 96.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "704c21d6-7c2d-4a08-a715-f582384ac973")
+	)
+	(gr_line
+		(start 138 60.5)
+		(end 138 85.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "80267b27-09c4-40f9-98cb-b6e21e61c344")
+	)
+	(gr_line
+		(start 89 149.5)
+		(end 89 126.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "829267ce-b1c1-4401-8a70-759d77887439")
+	)
+	(gr_line
+		(start 159 149.5)
+		(end 159 126.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "8b9cf10e-4840-472d-933c-358cc28b7b50")
+	)
+	(gr_line
+		(start 208 60.5)
+		(end 208 95.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "8d311400-5470-4f58-979c-0de9d8b72b7e")
+	)
+	(gr_line
+		(start 89 85.5)
+		(end 89 60.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "94b47865-0db9-4831-aac2-75de467d5222")
+	)
+	(gr_line
+		(start 89 126.5)
+		(end 158 126.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "a816b6c1-c7fa-4dd8-a4dc-662fb577f6b4")
+	)
+	(gr_line
+		(start 139 85.5)
+		(end 139 60.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "c7c8bf62-9245-4ec6-9012-ec1d71c859fe")
+	)
+	(gr_line
+		(start 158 126.5)
+		(end 158 149.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "d8a6536b-c0d3-40a4-b6f7-88c2e99692da")
+	)
+	(gr_line
+		(start 208 125.5)
+		(end 181 125.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "d8ac1c3f-a194-4903-b605-9b2e3a9b31b2")
+	)
+	(gr_line
+		(start 181 95.5)
+		(end 181 60.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "da02bd4b-1aa4-4233-a383-2ffc8ef11fcf")
+	)
+	(gr_line
+		(start 89 60.5)
+		(end 138 60.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "ed75ed8b-ee73-40c8-bdc9-812d9d8143f6")
+	)
+	(gr_line
+		(start 180 85.5)
+		(end 139 85.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "ff5d45c9-a916-4861-83e0-8c13ed89da92")
+	)
+	(gr_rect
+		(start 88.5 60)
+		(end 208.5 150)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "28c03299-2946-443a-b8f9-a41706f5dd26")
+	)
+	(gr_text "LCD 16x2 (WC1602A)"
+		(at 89.5 87.7 0)
+		(layer "Cmts.User")
+		(uuid "67c91cdc-4492-4c33-b92f-b9a8a2bff3e9")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "MCU STM32 + USB + SWD/UART + LED"
+		(at 89.5 127.7 0)
+		(layer "Cmts.User")
+		(uuid "85607e88-95d4-4030-bb74-a38b59ed6b05")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "DC SUPPLY 5V + LDO 3V3 (AP63205 / AP2114)"
+		(at 89.5 61.7 0)
+		(layer "Cmts.User")
+		(uuid "90b025e5-1f68-45f0-97ba-ce2d26db59c1")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "BUTTONS + TEMP SENSOR (LM75)"
+		(at 159.5 127.7 0)
+		(layer "Cmts.User")
+		(uuid "94d07b26-049d-4f20-8043-1cd57528280e")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "ESP-01 (WI-FI)"
+		(at 181.5 61.7 0)
+		(layer "Cmts.User")
+		(uuid "9e6b4eb4-0a9b-405d-9a08-ec8e527ef19c")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "RTC + NOR FLASH (BT1 / W25Q32)"
+		(at 139.5 61.7 0)
+		(layer "Cmts.User")
+		(uuid "acd83312-2566-440b-98f9-17d57ef33760")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "LCD DRIVER (PCF8574)"
+		(at 181.5 97.7 0)
+		(layer "Cmts.User")
+		(uuid "c0f3c5dc-f261-4848-9f5a-6408c01d3e1b")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+			(justify left)
 		)
 	)
 	(embedded_fonts no)
