@@ -1,3 +1,6 @@
 [submodule "external/kicad-template"]
 	path = external/kicad-template
 	url = git@github.com:slemanz/kicad-template.git
+[submodule "external/kicad-bom-formatter"]
+	path = external/kicad-bom-formatter
+	url = git@github.com:slemanz/kicad-bom-formatter.git
