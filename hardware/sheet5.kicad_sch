@@ -518,7 +518,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DIODE SCHOTTKY ARRAY 30V 200mA 1V@100mA DUAL COMMON CATHODE SOT-23"
+			(property "Description" "DIODE ARR SCHOTT 30V 200MA SOT23"
 				(at 0 0 0)
 				(effects
 					(font
@@ -805,7 +805,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Serial NOR flash 32Mbit 4MB, SPI/Dual/Quad SPI 133MHz, 2.7V to 3.6V, SOIC-8 150mil"
+			(property "Description" "IC FLASH 32MBIT SPI/QUAD 8SOIC"
 				(at 2.54 -10.16 0)
 				(effects
 					(font
@@ -1085,7 +1085,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Battery holder coin cell CR2032 horizontal SMT"
+			(property "Description" "BATTERY HOLDER COIN CR2032 SMD"
 				(at 0 -15.24 0)
 				(effects
 					(font
@@ -2334,7 +2334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Serial NOR flash 32Mbit 4MB, SPI/Dual/Quad SPI 133MHz, 2.7V to 3.6V, SOIC-8 150mil"
+		(property "Description" "IC FLASH 32MBIT SPI/QUAD 8SOIC"
 			(at 193.04 106.68 0)
 			(effects
 				(font
@@ -2532,7 +2532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Battery holder coin cell CR2032 horizontal SMT"
+		(property "Description" "BATTERY HOLDER COIN CR2032 SMD"
 			(at 86.36 114.3 0)
 			(effects
 				(font
@@ -2926,7 +2926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY ARRAY 30V 200mA 1V@100mA DUAL COMMON CATHODE SOT-23"
+		(property "Description" "DIODE ARR SCHOTT 30V 200MA SOT23"
 			(at 106.68 91.44 0)
 			(effects
 				(font

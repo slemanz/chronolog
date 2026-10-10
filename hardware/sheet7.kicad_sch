@@ -712,7 +712,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Female header 2x4 2.54mm pitch through hole 8.5mm insulator, board side receptacle for an ESP-01 module, no footprint of its own, its pads belong to 11_modules:ESP-01"
+			(property "Description" "CONN SOCKET 8POS 2.54mm DUAL ROW TH"
 				(at 0 0 0)
 				(effects
 					(font
@@ -829,7 +829,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Wi-Fi module ESP8266, 802.11 b/g/n, UART, PCB antenna, 2x4 2.54mm through-hole, 3.3V"
+			(property "Description" "ESP8266 WI-FI IOT MODULE"
 				(at -1.27 -12.7 0)
 				(effects
 					(font
@@ -1641,7 +1641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Wi-Fi module ESP8266, 802.11 b/g/n, UART, PCB antenna, 2x4 2.54mm through-hole, 3.3V"
+		(property "Description" "ESP8266 WI-FI IOT MODULE"
 			(at 149.86 101.6 0)
 			(effects
 				(font
@@ -2975,7 +2975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Female header 2x4 2.54mm pitch through hole 8.5mm insulator, board side receptacle for an ESP-01 module, no footprint of its own, its pads belong to 11_modules:ESP-01"
+		(property "Description" "CONN SOCKET 8POS 2.54mm DUAL ROW TH"
 			(at 27.94 182.88 0)
 			(effects
 				(font

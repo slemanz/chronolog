@@ -2510,7 +2510,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "LED RGB three independent dies 625-525-465nm 20mA per colour water clear PLCC-6 5050 SMD"
+			(property "Description" "TOP LED 5050 RGB SMD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3060,7 +3060,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "IC ESD PROTECTION ARRAY 2-LINE USB 2.0 VERY LOW CAPACITANCE 3.5pF SOT-23-6"
+			(property "Description" "TVS DIODE 5.25VWM 17VC SOT23-6"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3289,7 +3289,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "IC MCU 32BIT Arm Cortex-M0 48MHz 128KB flash 16KB RAM USB FS crystal-less 37 GPIO 2.0-3.6V LQFP-48 7x7mm"
+			(property "Description" "IC MCU 32BIT 128KB FLASH 48LQFP"
 				(at 2.54 -43.18 0)
 				(effects
 					(font
@@ -4509,7 +4509,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Crystal 32.768kHz 12.5pF +-20ppm ESR 70k max, FC-135, SMD 3215 2-pin 3.2x1.5mm"
+			(property "Description" "CRYSTAL 32.7680KHZ 12.5PF SMD"
 				(at 0 7.62 0)
 				(effects
 					(font
@@ -4731,7 +4731,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Male pin header 1x4 2.54mm pitch straight through hole 6mm mating pin 2.54mm insulator 3mm tail 3A"
+			(property "Description" "CONN HEADER MALE VERT 4POS 2.54MM"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4923,7 +4923,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CONN HEADER JST XH 4POS 2.50mm pitch shrouded polarized vertical top entry TH 3A 250V"
+			(property "Description" "CONN HEADER JST XH 4POS 2.50mm TH"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5158,7 +5158,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CONN RCPT USB 2.0 Micro-B 5POS SMD right angle 4 TH shell legs 30V 1.8A"
+			(property "Description" "CONN RCPT USB MICRO-B 5POS SMD"
 				(at -2.54 11.43 0)
 				(effects
 					(font
@@ -5501,7 +5501,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "SWITCH TACTILE SPST-NO 50mA 12V SMD 3.9x3.0x2.0mm 160gf 100k cycles"
+			(property "Description" "SWITCH TACTILE SPST SMD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8289,7 +8289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Crystal 32.768kHz 12.5pF +-20ppm ESR 70k max, FC-135, SMD 3215 2-pin 3.2x1.5mm"
+		(property "Description" "CRYSTAL 32.7680KHZ 12.5PF SMD"
 			(at 107.95 121.92 0)
 			(effects
 				(font
@@ -9089,7 +9089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CONN RCPT USB 2.0 Micro-B 5POS SMD right angle 4 TH shell legs 30V 1.8A"
+		(property "Description" "CONN RCPT USB MICRO-B 5POS SMD"
 			(at 274.32 72.39 0)
 			(effects
 				(font
@@ -9562,7 +9562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC ESD PROTECTION ARRAY 2-LINE USB 2.0 VERY LOW CAPACITANCE 3.5pF SOT-23-6"
+		(property "Description" "TVS DIODE 5.25VWM 17VC SOT23-6"
 			(at 246.38 83.82 0)
 			(effects
 				(font
@@ -10093,7 +10093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SWITCH TACTILE SPST-NO 50mA 12V SMD 3.9x3.0x2.0mm 160gf 100k cycles"
+		(property "Description" "SWITCH TACTILE SPST SMD"
 			(at 93.98 101.6 0)
 			(effects
 				(font
@@ -11087,7 +11087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED RGB three independent dies 625-525-465nm 20mA per colour water clear PLCC-6 5050 SMD"
+		(property "Description" "TOP LED 5050 RGB SMD"
 			(at 251.46 142.24 0)
 			(effects
 				(font
@@ -11489,7 +11489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC MCU 32BIT Arm Cortex-M0 48MHz 128KB flash 16KB RAM USB FS crystal-less 37 GPIO 2.0-3.6V LQFP-48 7x7mm"
+		(property "Description" "IC MCU 32BIT 128KB FLASH 48LQFP"
 			(at 162.56 109.22 0)
 			(effects
 				(font
@@ -13495,7 +13495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CONN HEADER JST XH 4POS 2.50mm pitch shrouded polarized vertical top entry TH 3A 250V"
+		(property "Description" "CONN HEADER JST XH 4POS 2.50mm TH"
 			(at 27.94 115.57 0)
 			(effects
 				(font
@@ -13651,7 +13651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Male pin header 1x4 2.54mm pitch straight through hole 6mm mating pin 2.54mm insulator 3mm tail 3A"
+		(property "Description" "CONN HEADER MALE VERT 4POS 2.54MM"
 			(at 30.48 171.45 0)
 			(effects
 				(font

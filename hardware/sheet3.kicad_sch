@@ -1030,7 +1030,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP ALU 47uF 50V 20% 680mR@100kHz 2000h 105C D6.3xL5.8"
+			(property "Description" "CAP ALUM 47uF 20% 35V SMD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2547,7 +2547,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DIODE SCHOTTKY 40V 3A SMA(DO-214AC)"
+			(property "Description" "DIODE SCHOTTKY 40V 3A SMA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2733,7 +2733,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "TVS DIODE 33V 53.3V 400W UNIDIRECTIONAL SMA(DO-214AC)"
+			(property "Description" "TVS DIODE 33VWM 53.3VC DO214AC"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3552,7 +3552,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DC power jack 5.5mm barrel 2.0mm center pin, mates 5.5x2.1mm plug, right angle TH, switched, 5A"
+			(property "Description" "CONN PWR JACK TH R/A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6750,7 +6750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY 40V 3A SMA(DO-214AC)"
+		(property "Description" "DIODE SCHOTTKY 40V 3A SMA"
 			(at 97.79 68.58 0)
 			(effects
 				(font
@@ -7892,7 +7892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "TVS DIODE 33V 53.3V 400W UNIDIRECTIONAL SMA(DO-214AC)"
+		(property "Description" "TVS DIODE 33VWM 53.3VC DO214AC"
 			(at 109.22 72.39 0)
 			(effects
 				(font
@@ -9504,7 +9504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP ALU 47uF 50V 20% 680mR@100kHz 2000h 105C D6.3xL5.8"
+		(property "Description" "CAP ALUM 47uF 20% 35V SMD"
 			(at 124.46 72.39 0)
 			(effects
 				(font
@@ -9674,7 +9674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DC power jack 5.5mm barrel 2.0mm center pin, mates 5.5x2.1mm plug, right angle TH, switched, 5A"
+		(property "Description" "CONN PWR JACK TH R/A"
 			(at 71.12 71.12 0)
 			(effects
 				(font
