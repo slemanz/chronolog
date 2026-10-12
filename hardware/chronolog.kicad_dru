@@ -1,0 +1,5 @@
+(version 1)
+(rule "offboard_parts_silk_edge"
+    (constraint silk_clearance)
+    (condition "A.Layer == 'Edge.Cuts' && (B.memberOfFootprint('J1') || B.memberOfFootprint('J4') || B.memberOfFootprint('U7'))")
+    (severity ignore))
