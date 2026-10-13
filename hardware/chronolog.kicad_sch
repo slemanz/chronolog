@@ -208,7 +208,7 @@
 		)
 		(uuid "11def4d0-dee5-483f-a364-510ec6eb7d7f")
 	)
-	(text "..........................................."
+	(text "Board Layers"
 		(exclude_from_sim no)
 		(at 44.45 140.97 0)
 		(effects
@@ -996,7 +996,7 @@
 		)
 		(uuid "9d4b9782-3246-4f58-9607-911db3df5cde")
 	)
-	(text "..........................................."
+	(text "Assembly Drawing"
 		(exclude_from_sim no)
 		(at 44.45 148.59 0)
 		(effects
@@ -1971,6 +1971,90 @@
 			(project "chronolog"
 				(path "/08767502-fa14-4976-aaca-9650785a2144"
 					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 287.02 330.2)
+		(size 29.21 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e25f346d-666e-489f-8410-bade554a3592")
+		(property "Sheetname" "[10] - Assembly Drawing"
+			(at 287.02 329.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet10.kicad_sch"
+			(at 287.02 334.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "chronolog"
+				(path "/08767502-fa14-4976-aaca-9650785a2144"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 386.08 318.77)
+		(size 29.21 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f259ed44-df9c-437e-953c-d37b4d8875a0")
+		(property "Sheetname" "[09] - Board Layers"
+			(at 386.08 318.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet9.kicad_sch"
+			(at 386.08 323.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "chronolog"
+				(path "/08767502-fa14-4976-aaca-9650785a2144"
+					(page "9")
 				)
 			)
 		)

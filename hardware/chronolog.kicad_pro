@@ -1106,6 +1106,14 @@
     [
       "a2a67f8b-871a-4322-8b22-519f733d7411",
       "[08] - LCD"
+    ],
+    [
+      "f259ed44-df9c-437e-953c-d37b4d8875a0",
+      "[09] - Board Layers"
+    ],
+    [
+      "e25f346d-666e-489f-8410-bade554a3592",
+      "[10] - Assembly Drawing"
     ]
   ],
   "text_variables": {

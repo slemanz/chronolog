@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "273b1954-98e9-4a9e-9900-c541fc3e11b1")
+	(paper "A3")
+	(title_block
+		(title "PCB Chronolog")
+		(date "2026-09-01")
+		(rev "A")
+		(company "Sleman")
+	)
+	(lib_symbols)
+	(text "${SHEETNAME}"
+		(exclude_from_sim no)
+		(at 210 46.69 0)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 15.56 15.56)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+			(justify bottom)
+		)
+		(uuid "1f17403e-2834-4dc8-b2f0-d13615cfe815")
+	)
+)
