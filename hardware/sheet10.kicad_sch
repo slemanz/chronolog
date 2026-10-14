@@ -13,7 +13,7 @@
 	(lib_symbols)
 	(text "${SHEETNAME}"
 		(exclude_from_sim no)
-		(at 210 46.69 0)
+		(at 20.32 35.56 0)
 		(effects
 			(font
 				(face "Times New Roman")
@@ -21,7 +21,7 @@
 				(bold yes)
 				(color 162 22 34 1)
 			)
-			(justify bottom)
+			(justify left bottom)
 		)
 		(uuid "7a1ef062-a39c-4a79-8d48-cb9f8ea6dad3")
 	)
