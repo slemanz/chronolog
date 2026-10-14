@@ -13,7 +13,7 @@
 	(lib_symbols)
 	(text "${SHEETNAME}"
 		(exclude_from_sim no)
-		(at 210 46.69 0)
+		(at 110.49 34.29 0)
 		(effects
 			(font
 				(face "Times New Roman")
