@@ -912,7 +912,7 @@
 		)
 		(uuid "8d33f110-5b22-4dce-ab8b-399fd1d02678")
 	)
-	(text "..........................................."
+	(text "Assembly Drawing - Bottom"
 		(exclude_from_sim no)
 		(at 143.51 80.01 0)
 		(effects
@@ -996,7 +996,7 @@
 		)
 		(uuid "9d4b9782-3246-4f58-9607-911db3df5cde")
 	)
-	(text "Assembly Drawing"
+	(text "Assembly Drawing - Top"
 		(exclude_from_sim no)
 		(at 44.45 148.59 0)
 		(effects
@@ -6975,6 +6975,48 @@
 		)
 	)
 	(sheet
+		(at 320.04 330.2)
+		(size 29.21 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "27dc203b-58e3-4bf5-b116-bfed285b4d17")
+		(property "Sheetname" "[11] - Assembly Drawing - Bottom"
+			(at 320.04 329.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet11.kicad_sch"
+			(at 320.04 334.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "chronolog"
+				(path "/08767502-fa14-4976-aaca-9650785a2144"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 320.04 318.77)
 		(size 29.21 3.81)
 		(exclude_from_sim no)
@@ -7245,7 +7287,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "e25f346d-666e-489f-8410-bade554a3592")
-		(property "Sheetname" "[10] - Assembly Drawing"
+		(property "Sheetname" "[10] - Assembly Drawing - Top"
 			(at 287.02 329.4884 0)
 			(effects
 				(font

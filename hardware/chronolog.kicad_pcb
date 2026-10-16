@@ -440,7 +440,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -700,7 +700,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -1027,7 +1027,7 @@
 				(xy -2.05 -1.5) (xy 2.05 -1.5) (xy 2.05 1.5) (xy -2.05 1.5)
 			)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -1316,7 +1316,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -1563,7 +1563,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -1968,7 +1968,7 @@
 			(start -1.925 -1.5)
 			(end 1.925 1.5)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -2227,7 +2227,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -2487,7 +2487,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -2748,7 +2748,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -2982,7 +2982,7 @@
 			(start -2.3 -1.6)
 			(end 2.3 1.6)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -3413,7 +3413,7 @@
 			(start -1.925 -1.475)
 			(end 1.925 1.525)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -3696,7 +3696,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -3913,7 +3913,7 @@
 			(start -1.775 -1.775)
 			(end 1.775 9.4)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -4260,7 +4260,7 @@
 			(start -4.35 -4.1)
 			(end 4.35 3.55)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -4619,7 +4619,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -4898,7 +4898,7 @@
 			(start -3 -1.75)
 			(end 3 1.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -4909,7 +4909,7 @@
 			(center 0 0)
 			(end 0 -1.2)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -5145,7 +5145,7 @@
 			(start -1.675 -0.975)
 			(end 1.7 0.975)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -5897,7 +5897,7 @@
 			(start -12.95 -8.1)
 			(end 13.45 8.1)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -5908,7 +5908,7 @@
 			(center -1.55 0)
 			(end 8.6 0)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type dash)
 			)
 			(fill no)
@@ -6153,7 +6153,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -6611,7 +6611,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -6858,7 +6858,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -7110,7 +7110,7 @@
 			(start -2 -1.15)
 			(end 2 1.15)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -7343,7 +7343,7 @@
 			(start -1.675 -0.975)
 			(end 1.7 0.975)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -7590,7 +7590,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -7956,7 +7956,7 @@
 			(start -2.95 -2.85)
 			(end 10.45 3.9)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -8228,7 +8228,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -8556,7 +8556,7 @@
 			(start -5.925 -5)
 			(end 5.925 5)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -8989,7 +8989,7 @@
 			(start -14.1 -5)
 			(end 2.4 6.2)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -9260,7 +9260,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -9520,7 +9520,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -9780,7 +9780,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -10027,7 +10027,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -10456,7 +10456,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -10703,7 +10703,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -11108,7 +11108,7 @@
 			(start -1.925 -1.5)
 			(end 1.925 1.5)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -11354,7 +11354,7 @@
 			(start -1.675 -0.975)
 			(end 1.7 0.975)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -11570,7 +11570,7 @@
 			(start 2.35 1.15)
 			(end -2.35 1.15)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -11580,7 +11580,7 @@
 			(start 2.35 -1.15)
 			(end 2.35 1.15)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -11590,7 +11590,7 @@
 			(start -2 1.15)
 			(end -2 -1.15)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -11600,7 +11600,7 @@
 			(start -2.35 1.15)
 			(end -2.35 -1.15)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -11610,7 +11610,7 @@
 			(start -2.35 -1.15)
 			(end 2.35 -1.15)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -11845,7 +11845,7 @@
 			(start -2.3 -1.6)
 			(end 2.3 1.6)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -12213,7 +12213,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -12609,7 +12609,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -12869,7 +12869,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -13184,7 +13184,7 @@
 			(start -2.05 -1.5)
 			(end 2.05 1.5)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -13497,7 +13497,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -13757,7 +13757,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -14017,7 +14017,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -14512,7 +14512,7 @@
 			(start -2.3 3.3)
 			(end 3.3 3.3)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -14522,7 +14522,7 @@
 			(start -3.3 2.3)
 			(end -2.3 3.3)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -14532,7 +14532,7 @@
 			(start -2.704838 -1.33)
 			(end -2.074838 -1.33)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -14542,7 +14542,7 @@
 			(start -2.389838 -1.645)
 			(end -2.389838 -1.015)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -14552,7 +14552,7 @@
 			(start -3.3 -2.3)
 			(end -3.3 2.3)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -14562,7 +14562,7 @@
 			(start -3.3 -2.3)
 			(end -2.3 -3.3)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -14572,7 +14572,7 @@
 			(start -2.3 -3.3)
 			(end 3.3 -3.3)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -14582,7 +14582,7 @@
 			(start 3.3 -3.3)
 			(end 3.3 3.3)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -14592,7 +14592,7 @@
 			(center 0 0)
 			(end 3.15 0)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -14920,7 +14920,7 @@
 			(start -3.7 -2.45)
 			(end 3.7 2.475)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -15321,7 +15321,7 @@
 			(start -3.7 -2.45)
 			(end 3.7 2.475)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -15654,7 +15654,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -15901,7 +15901,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -16148,7 +16148,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -16408,7 +16408,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -16665,7 +16665,7 @@
 			(start -4.4 -3.6)
 			(end 4.4 3.6)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -16723,7 +16723,7 @@
 			(net 7 "+3V3")
 			(pinfunction "VOUT")
 			(pintype "passive")
-			(uuid "ccb340cd-8eb0-4f7c-b58f-22838736d180")
+			(uuid "506ba571-4c41-4625-96ee-60039ce3f344")
 		)
 		(pad "3" smd roundrect
 			(at -3.15 2.3 270)
@@ -17103,7 +17103,7 @@
 			(start -1.925 -1.5)
 			(end 1.925 1.5)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -17362,7 +17362,7 @@
 			(start -3.5 -0.96)
 			(end -3.5 0.87)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(layer "F.Fab")
@@ -17372,7 +17372,7 @@
 			(start -3.75 -20.9)
 			(end 11.15 4.275)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -17757,7 +17757,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -18017,7 +18017,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -18251,7 +18251,7 @@
 			(start -2.3 -1.6)
 			(end 2.3 1.6)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -18466,7 +18466,7 @@
 			(start -3 1.75)
 			(end -3 -1.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -18476,7 +18476,7 @@
 			(start -3.5 -1.75)
 			(end 3.5 1.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -18725,7 +18725,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -19080,7 +19080,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -19327,7 +19327,7 @@
 			(start -1.95 -1.35)
 			(end 1.95 1.35)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -19576,7 +19576,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -19774,7 +19774,7 @@
 			(start -1.175 -0.7)
 			(end -1.175 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(layer "F.Fab")
@@ -19784,7 +19784,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -20034,7 +20034,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -20528,7 +20528,7 @@
 			(start -5.15 -5.15)
 			(end 5.15 5.15)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -21247,7 +21247,7 @@
 			(start -1.675 -0.95)
 			(end 1.675 0.95)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -21555,7 +21555,7 @@
 			(start -4.15 -3.75)
 			(end 3.85 4.025)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -21566,7 +21566,7 @@
 			(center 0 0.14)
 			(end 1.5 0.14)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -21959,7 +21959,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -22219,7 +22219,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -22417,7 +22417,7 @@
 			(start -1.175 -0.7)
 			(end -1.175 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(layer "F.Fab")
@@ -22427,7 +22427,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -22671,7 +22671,7 @@
 			(start -3 1.75)
 			(end -3 -1.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(layer "F.Fab")
@@ -22681,7 +22681,7 @@
 			(start -3.5 -1.75)
 			(end 3.5 1.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -22930,7 +22930,7 @@
 			(start -1.475 -0.725)
 			(end 1.475 0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -23189,7 +23189,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -23463,7 +23463,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -23723,7 +23723,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -24012,7 +24012,7 @@
 			(start -3 1.75)
 			(end 3 -1.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -24023,7 +24023,7 @@
 			(center 0 0)
 			(end 0 1.2)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -24261,7 +24261,7 @@
 			(start -3.15 2.75)
 			(end -3.15 -2.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(layer "B.Fab")
@@ -24271,7 +24271,7 @@
 			(start -3.65 2.75)
 			(end 3.65 -2.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -24282,7 +24282,7 @@
 			(center 0 0)
 			(end 0 1.9)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -24676,7 +24676,7 @@
 			(start -8.25 2.75)
 			(end 72.25 -33.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -24687,7 +24687,7 @@
 			(center 0 1.9)
 			(end 0.3 1.9)
 			(stroke
-				(width 0.3)
+				(width 0.2)
 				(type solid)
 			)
 			(fill yes)
@@ -25148,7 +25148,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -25422,7 +25422,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -25696,7 +25696,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -25956,7 +25956,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -26216,7 +26216,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)
@@ -26505,7 +26505,7 @@
 			(start -3 1.75)
 			(end 3 -1.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -26516,7 +26516,7 @@
 			(center 0 0)
 			(end 0 1.2)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -26806,7 +26806,7 @@
 			(start -3 1.75)
 			(end 3 -1.75)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -26817,7 +26817,7 @@
 			(center 0 0)
 			(end 0 1.2)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type default)
 			)
 			(fill no)
@@ -27078,7 +27078,7 @@
 			(start -1.475 0.725)
 			(end 1.475 -0.725)
 			(stroke
-				(width 0.1)
+				(width 0.2)
 				(type solid)
 			)
 			(fill no)

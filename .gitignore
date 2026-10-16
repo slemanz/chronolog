@@ -23,3 +23,7 @@ fp-info-cache
 
 # Others
 hardware/output
+
+# Office lock files (open documents)
+.~lock.*#
+~$*
